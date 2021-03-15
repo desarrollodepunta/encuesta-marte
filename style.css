@@ -1,0 +1,26 @@
+
+header {
+    background-color:rgb(182, 151, 151);
+    margin: 2rem;
+}
+
+main {
+    background-color: cadetblue;
+    margin: 5rem;
+    align-items: center;
+    justify-content: center;
+}
+
+#title {
+    padding-top: 30px;
+    padding-left: 5rem;
+    align-items: center;
+}
+
+#description {
+    
+}
+
+#survey-form {
+    margin-left: 5%;
+}
